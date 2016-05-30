@@ -1,0 +1,3 @@
+上面的“一字一行.txt”文件就是用码表处理工具将原码表转成一字一行的形式
+wbx.txt是前面加了一些必要的内容的文件，是在fcitx（一般在~/.config/fcitx/table）里用命令mb2txt wbx.mb >wbx.txt而来
+可直接到fcitx里用命令txt2mb wbx.txt wbx.mb转化成md格式的词库使用
